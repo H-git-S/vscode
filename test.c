@@ -1,6 +1,6 @@
 #include <stdin.h>
 int main(int argc, char const *argv[])
 {
-    /* code */
+  printf("修改");
     return 0;
 }
